@@ -19,3 +19,6 @@
 [submodule "RAG-with-reranking-Cohere_ReRanker"]
 	path = RAG-with-reranking-Cohere_ReRanker
 	url = https://github.com/MariahFerns/RAG-with-reranking-Cohere_ReRanker.git
+[submodule "MoodAnalyzer-Recommender-AnthropicClaude"]
+	path = MoodAnalyzer-Recommender-AnthropicClaude
+	url = https://github.com/MariahFerns/MoodAnalyzer-Recommender-AnthropicClaude.git
