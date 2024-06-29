@@ -13,3 +13,18 @@
 [submodule "RAGChatbot-web-Cohere_CommandR"]
 	path = RAGChatbot-web-Cohere_CommandR
 	url = https://github.com/MariahFerns/RAGChatbot-web-Cohere_CommandR.git
+[submodule "RAGChatbot-txt-OpenAI"]
+	path = RAGChatbot-txt-OpenAI
+	url = https://github.com/MariahFerns/RAGChatbot-txt-OpenAI.git
+[submodule "RAG-with-reranking-Cohere_ReRanker"]
+	path = RAG-with-reranking-Cohere_ReRanker
+	url = https://github.com/MariahFerns/RAG-with-reranking-Cohere_ReRanker.git
+[submodule "MoodAnalyzer-Recommender-AnthropicClaude"]
+	path = MoodAnalyzer-Recommender-AnthropicClaude
+	url = https://github.com/MariahFerns/MoodAnalyzer-Recommender-AnthropicClaude.git
+[submodule "StockMarketAnalysis-AIAgents-Autogen"]
+	path = StockMarketAnalysis-AIAgents-Autogen
+	url = https://github.com/MariahFerns/StockMarketAnalysis-AIAgents-Autogen.git
+[submodule "RAGChatbot-url-Ollama-MistralAI"]
+	path = RAGChatbot-url-Ollama-MistralAI
+	url = https://github.com/MariahFerns/RAGChatbot-url-Ollama-MistralAI.git
