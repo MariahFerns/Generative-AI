@@ -22,3 +22,6 @@
 [submodule "MoodAnalyzer-Recommender-AnthropicClaude"]
 	path = MoodAnalyzer-Recommender-AnthropicClaude
 	url = https://github.com/MariahFerns/MoodAnalyzer-Recommender-AnthropicClaude.git
+[submodule "StockMarketAnalysis-AIAgents-Autogen"]
+	path = StockMarketAnalysis-AIAgents-Autogen
+	url = https://github.com/MariahFerns/StockMarketAnalysis-AIAgents-Autogen.git
