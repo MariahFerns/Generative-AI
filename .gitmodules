@@ -13,3 +13,6 @@
 [submodule "RAGChatbot-web-Cohere_CommandR"]
 	path = RAGChatbot-web-Cohere_CommandR
 	url = https://github.com/MariahFerns/RAGChatbot-web-Cohere_CommandR.git
+[submodule "RAGChatbot-txt-OpenAI"]
+	path = RAGChatbot-txt-OpenAI
+	url = https://github.com/MariahFerns/RAGChatbot-txt-OpenAI.git
