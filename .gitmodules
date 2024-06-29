@@ -16,3 +16,6 @@
 [submodule "RAGChatbot-txt-OpenAI"]
 	path = RAGChatbot-txt-OpenAI
 	url = https://github.com/MariahFerns/RAGChatbot-txt-OpenAI.git
+[submodule "RAG-with-reranking-Cohere_ReRanker"]
+	path = RAG-with-reranking-Cohere_ReRanker
+	url = https://github.com/MariahFerns/RAG-with-reranking-Cohere_ReRanker.git
