@@ -4,3 +4,6 @@
 [submodule "RAGChatbot-pdf-GoogleAI"]
 	path = RAGChatbot-pdf-GoogleAI
 	url = https://github.com/MariahFerns/RAGChatbot-pdf-GoogleAI.git
+[submodule "Video-Summary-ContentGeneration-GoogleAI"]
+	path = Video-Summary-ContentGeneration-GoogleAI
+	url = https://github.com/MariahFerns/Video-Summary-ContentGeneration-GoogleAI.git
