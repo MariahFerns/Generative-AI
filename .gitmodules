@@ -7,3 +7,6 @@
 [submodule "Video-Summary-ContentGeneration-GoogleAI"]
 	path = Video-Summary-ContentGeneration-GoogleAI
 	url = https://github.com/MariahFerns/Video-Summary-ContentGeneration-GoogleAI.git
+[submodule "TextSummarization-LangChain"]
+	path = TextSummarization-LangChain
+	url = https://github.com/MariahFerns/TextSummarization-LangChain.git
