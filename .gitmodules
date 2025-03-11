@@ -25,7 +25,7 @@
 [submodule "RAGChatbot-url-Ollama-MistralAI"]
 	path = RAGChatbot-url-Ollama-MistralAI
 	url = https://github.com/MariahFerns/RAGChatbot-url-Ollama-MistralAI.git
-[submodule "AI_Education"]
+[submodule "Education_AI"]
 	path = AI_Education
 	url = https://github.com/MariahFerns/AI_Education.git
 [submodule "Agentic-AI"]
