@@ -28,3 +28,6 @@
 [submodule "AI_Education"]
 	path = AI_Education
 	url = https://github.com/MariahFerns/AI_Education.git
+[submodule "Agentic-AI"]
+	path = Agentic-AI
+	url = https://github.com/MariahFerns/Agentic-AI.git
