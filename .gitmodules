@@ -1,6 +1,3 @@
-[submodule "AIAgents-CrewAI"]
-	path = AIAgents-CrewAI
-	url = https://github.com/MariahFerns/AIAgents-CrewAI.git
 [submodule "RAGChatbot-pdf-GoogleAI"]
 	path = RAGChatbot-pdf-GoogleAI
 	url = https://github.com/MariahFerns/RAGChatbot-pdf-GoogleAI.git
